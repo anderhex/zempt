@@ -1,0 +1,15 @@
+{
+  "name": "zempt",
+  "version": "0.0.1",
+  "description": "A free Z-Library grabber in NodeJS.",
+  "type": "module",
+  "main": "zempt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AnderHEX",
+  "license": "MIT",
+  "dependencies": {
+    "node-html-parser": "^5.3.3"
+  }
+}
